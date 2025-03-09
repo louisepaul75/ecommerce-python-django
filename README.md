@@ -208,6 +208,3 @@ Contributions are welcome! Please fork this repository and create a pull request
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 💰 You can help me by Donating. Any small amount will help me to create more projects like this in future 😀. Otherwise, it is not necessary.
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/atulguptaa)
